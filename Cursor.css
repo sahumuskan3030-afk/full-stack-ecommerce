@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.happy{
+    background-color: aqua;
+    width: 50%;
+    border: 2px solid black;
+    cursor: url("modi.png") , auto;
+}
+.sad{
+    background-color: aquamarine;
+    width: 50%;
+    border: 2px solid black;
+    cursor:url("sad.png") ,auto;
+}
+#cat{
+    text-align: center;
+    width: 300px;
+    height: 200px;
+}
+.container{
+    display: flex;
+   
+}
